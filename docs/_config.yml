@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 show_downloads: true
 source: "https://github.com/Celudor/tetris"
 highlighter: rouge
